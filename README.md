@@ -97,12 +97,12 @@ hr-attrition-analysis/
 │   ├── 02_load_and_clean_data.sql
 │   └── 03_kpi_views.sql
 ├── powerbi/
-│   └── hr_dashboard.pbix
-└── screenshots/
-    ├── dashboard_overview.png
-    ├── dashboard_geo_dept.png
-    ├── dashboard_hires_tenure.png
-    └── dashboard_termination_rates.png
+    └── hr_analytics_dashboard.pbix
+    └── screenshots/
+        ├── dashboard_overview.png
+        ├── dashboard_geo_dept.png
+        ├── dashboard_hires_tenure.png
+        └── dashboard_termination_rates.png
 ```
 
 ## How to Run
