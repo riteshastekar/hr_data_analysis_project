@@ -55,16 +55,16 @@ Full view definitions: [`sql/03_kpi_views.sql`](sql/03_kpi_views.sql)
 
 ## Dashboard Preview
 
-![Workforce Overview](C:\Users\Admin\Documents\Capture.png)
+![Workforce Overview](PowerBi/screenshots/dashboard_overview.PNG)
 *Gender, location, age, department, and race breakdowns of the active workforce.*
 
-![Geographic & Department Distribution](C:\Users\Admin\Documents\Capture1.png)
+![Geographic & Department Distribution](PowerBi/screenshots/dashboard_geo_dept.PNG)
 *State-wise map and department-wise headcount distribution.*
 
-![Hiring & Tenure Trends](C:\Users\Admin\Documents\Capture3.png)
+![Hiring & Tenure Trends](PowerBi/screenshots/dashboard_hires_tenure.PNG)
 *Year-over-year hires vs. terminations, and average tenure by department.*
 
-![Termination Rate Analysis](C:\Users\Admin\Documents\Capture4.png)
+![Termination Rate Analysis](PowerBi/screenshots/dashboard_termination_rates.PNG)
 *Termination rate broken down by gender, age, department, year, and race.*
 
 ## Key Insights
